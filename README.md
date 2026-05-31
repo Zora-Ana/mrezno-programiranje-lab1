@@ -1,1 +1,0 @@
-# mrezno-programiranje-lab1
